@@ -8,8 +8,24 @@ Mortality rate expressed in units of deaths per 1,000 individuals per year
 
 each row is grouped by municipality
 
+7986 rows
+
+##### mortality_ext.csv
+
+the same of `mortality.csv` but with prov_name, prov_codice, regione, latitude, longitude
+
+7816 rows
+
 ##### population.csv
 
 Residents expressed in units per year
 
 each row is grouped by municipality
+
+7986 rows
+
+##### population_ext.csv
+
+the same of `population.csv` but with prov_name, prov_codice, regione, latitude, longitude
+
+7816 rows
